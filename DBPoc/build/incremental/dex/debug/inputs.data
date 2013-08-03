@@ -1,0 +1,18 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1375536869000 3592 af66d5dd48a2679987812f5374043049e0888143 /Users/fernandoMac/developer/java/workspace/DBPocProject/DBPoc/build/classes/debug/org/nando/poc/DatabaseHelper.class
+1375535499000 446 9d5f6012856b10b0bd25b3098632919901d85b67 /Users/fernandoMac/developer/java/workspace/DBPocProject/DBPoc/build/classes/debug/org/nando/poc/R$dimen.class
+1375538357000 440 3bdbd935ca59cb6c04ecb7cf9cc7ea989b6867d3 /Users/fernandoMac/developer/java/workspace/DBPocProject/DBPoc/build/classes/debug/org/nando/poc/R$id.class
+1375538357000 627 aec218be1f0ea007b991d95b36d9e85442d51c13 /Users/fernandoMac/developer/java/workspace/DBPocProject/DBPoc/build/classes/debug/org/nando/poc/R.class
+1375538357000 599 e437390433a179bb3a07286df6cfa7ae4eaf5845 /Users/fernandoMac/developer/java/workspace/DBPocProject/DBPoc/build/classes/debug/org/nando/poc/BusStops.class
+1375538357000 457 8592ff0f8847edb9be33a4578887fb9da97c839a /Users/fernandoMac/developer/java/workspace/DBPocProject/DBPoc/build/classes/debug/org/nando/poc/R$string.class
+1375535499000 392 8e2022e50f6fce42f730998ba056b2edcdf8a1f2 /Users/fernandoMac/developer/java/workspace/DBPocProject/DBPoc/build/classes/debug/org/nando/poc/R$drawable.class
+1375538357000 388 b69b67495b6f1e8635dcb3881252e4eb074b6a11 /Users/fernandoMac/developer/java/workspace/DBPocProject/DBPoc/build/classes/debug/org/nando/poc/R$layout.class
+1373633844000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1375535499000 325 7d8bb8390ba29aac0d9b6790d68a717afb716d51 /Users/fernandoMac/developer/java/workspace/DBPocProject/DBPoc/build/classes/debug/org/nando/poc/R$attr.class
+1375538357000 373 9dbb5d8062affae14552480ff43f82ff5842bd86 /Users/fernandoMac/developer/java/workspace/DBPocProject/DBPoc/build/classes/debug/org/nando/poc/R$menu.class
+1375535499000 335 1944149d8e7d4edccdac3c327b9a13604ee40888 /Users/fernandoMac/developer/java/workspace/DBPocProject/DBPoc/build/classes/debug/org/nando/poc/BuildConfig.class
+1375538357000 2193 fbd29b6033ed59acd1e8b4c4880c0b02f5e3089e /Users/fernandoMac/developer/java/workspace/DBPocProject/DBPoc/build/classes/debug/org/nando/poc/BusStopsDataSource.class
+1375538602000 2337 94ae48e4ac460e0bb6cc381b27d0147b3afa3504 /Users/fernandoMac/developer/java/workspace/DBPocProject/DBPoc/build/classes/debug/org/nando/poc/MainActivity.class
+1375538357000 416 bfbc4b3b4147b22225029589d4fb7238f13eb8d9 /Users/fernandoMac/developer/java/workspace/DBPocProject/DBPoc/build/classes/debug/org/nando/poc/R$style.class
